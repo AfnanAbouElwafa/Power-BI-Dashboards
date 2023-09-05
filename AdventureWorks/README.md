@@ -10,4 +10,4 @@ Project phases:
 3- Creation of Appropriate Measures
 4- Dashboard Building  
 
-[Dashboard](dashboard.pdf)
+[Dashboard](Dashboard.pdf)
