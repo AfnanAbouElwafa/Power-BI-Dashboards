@@ -19,15 +19,15 @@ It assists businesses in gaining a deeper understanding of their customers and e
 3. Number of purchases
 4. Average of recency
 5. Customers average income
-6. Monthly web vivits
+6. Monthly web visits 
 7. Average number of kids per customers
 8. Average number of teens per customer
 9. Marital Status distribution
 10. Number of customers by education
 11. Age distribution and Total amount spent
 12. Number of new customers by year
-13. Complaine
-14. Average of recency by Education
+13. Complaint 
+14. Average of Recency by Education
 
 ### Data source:  https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis ###
 
