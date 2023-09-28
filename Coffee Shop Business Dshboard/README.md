@@ -1,2 +1,2 @@
 # Coffee Shop Business Dshboard #
-![Coffee Shop Dashboard](https://github.com/AfnanAbouElwafa/Power-BI-Dashboards/assets/60342798/3ef36840-2253-48e9-8cae-d46e8fc1d16d)
+![Coffee Shop Dashboard1](https://github.com/AfnanAbouElwafa/Power-BI-Dashboards/assets/60342798/5888bbb0-a459-4be0-b5e6-3e7fe84b67e2)
